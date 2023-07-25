@@ -88,6 +88,12 @@
         min-height: 250px;
     }
 }
+@media (max-width: 417px)
+{
+    .title{
+        font-size: 45px;
+    }
+}
 h2{
     background-color: aliceblue;
 }
